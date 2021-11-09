@@ -1,9 +1,9 @@
-.. image:: https://cdn.rawgit.com/pymc-devs/pymc3/master/docs/logos/svg/PyMC3_banner.svg
+.. image:: https://cdn.rawgit.com/pymc-devs/pymc/master/docs/logos/svg/PyMC3_banner.svg
     :height: 100px
     :alt: PyMC3 logo
     :align: center
 
-PyMC3 Examples
+`PyMC3 Examples <https://github.com/pymc-devs/pymc-examples>`__
 ==============
 
 Supporting examples and tutorials for PyMC3, the Python package for Bayesian statistical modeling and Probabilistic Machine Learning!
